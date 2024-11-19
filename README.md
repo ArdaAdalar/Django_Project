@@ -32,8 +32,8 @@ Welcome to the Blog Application! This project is a fully functional blogging pla
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>/backend
+   git clone https://github.com/ArdaAdalar/Django_Project.git
+   cd Django_Project/backend
 2. Create a virtual enviroment
    python3 -m venv venv
   source venv/bin/activate
